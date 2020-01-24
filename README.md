@@ -10,4 +10,4 @@ Web Addresses:
 * Rate it on RPGGEEK - https://rpggeek.com/rpgitem/267624/wyrd-stromgard
 
 
-If you play the game we would absolutely love to hear all about your adventures. If you are making new content based on Stromgard, hit us up we would love to let Stromgards existing fans know about your project!
+If you play the game we would absolutely love to hear all about your adventures. If you are make new content based on Stromgard, hit us up! We would love to let Stromgard's existing fans know about your project!
