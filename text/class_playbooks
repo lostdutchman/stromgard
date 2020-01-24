@@ -1,0 +1,1649 @@
+Class Playbooks
+
+We have heard of the glory in bygone days
+of the folk-kings of the spear-Danes,
+how those noble lords did lofty deeds.
+
+Beowulf
+
+ These are the basic roles players will take on while adventuring
+ in Stromgard and they work very much like 
+standard Dungeon World class playbooks in terms of functionality. 
+One of the major differences here is that 
+race has been decoupled from alignment by replacing the standard 
+‘race’ move with a broader ‘background’ move. The main goal in doing 
+this was to open up the classes to be played by any race character with any 
+alignment they choose. GMs and their players can discuss what societal norms 
+apply to their preferred races as they please- there is a brief summary of race 
+relations of the ‘default’ Stromgard setting in the Race section, though if you are 
+playing a race not specifically mentioned therein, collaborate with your group to build 
+your own. Alignment moves are still present but I encourage players and GMs to write 
+custom alignments or brainstorm interesting ways to enact alignments not listed and/or the 
+shades of gray between them.
+
+THE BEARSKIN
+
+“Odin’s men rushed forwards without armor, were as mad as dogs or 
+wolves, bit their shields, and were strong as bears or wild oxen, and 
+killed people at a blow, but neither fire nor iron told upon them.”
+
+Ynglinga Saga, Prose Edda
+
+ The Bearskins are beholden to no one. Once, these 
+berserkers were mere warriors but their relentless devotion to 
+their carnal instincts and feral ferocity has fully transformed 
+them into something entirely different. They have rejected the 
+nature of man, learned the ways of beasts, and wholly given 
+themselves over to their indomitable thirst for adversaries that 
+can offer a challenge. They charge relentlessly into combat 
+covered in nothing but pelts, insult their enemies by refusing 
+to use a shield, wander the land like wrathful spirits looking for 
+challenge and blood... To die gloriously in combat is a Bearskin’s 
+greatest desire. Since their destinies are usually prized by 
+warrior-deities, the Bearskins often get their wish.
+
+ What defines a Bearskin, what separates them from a 
+normal warrior, is the blood-lust. In the heat of battle or in a 
+spike of danger, a Bearskin can snap and go into a frenzy. This 
+violent rage puts everyone in proximity at risk. Allies, enemies, 
+and even innocent bystanders are all simply moving targets to a 
+Bearskin frothing at the mouth and rabid with the desire to rend 
+flesh from bone with their bare hands. Bearskins give up a great 
+deal for their mantle, certainly, but for those who can put their 
+bodies and rational mind on the line, untold destruction can be 
+leveraged through their mortal body. 
+
+ For those who can gain their trust and earn a little of their 
+loyalty, there are no stronger, more terrifying warriors to employ 
+as front-line fighters than the Bearskins... The mere sight of a 
+berserker in full rage would cause most leaders with a care for 
+their casualties to disengage immediately. The Bearskin, like any 
+beast, is untamable. In battle, they feel neither fear nor pain, 
+they sacrifice kinship and comfort for the ways of the wild. 
+Their frenzy makes them a dangerous ally to keep close and 
+their solitary lifestyle makes them more legend than reality to 
+most folks. And yet despite all of this, the Bearskins- rare and 
+solitary though they may be- are still highly prized by any 
+daring commander who can secure their services. It goes 
+without saying, though, that this comes with great risk.
+
+ Odin, and to a lesser extent Thor (as well as a host of 
+other nature- and war-based deities) favor these formidable 
+warriors and their strict, if slightly unorthodox, commitment to 
+straightforward combat. It is rumored that Odin himself taught 
+the first Bearskins in the ways of the wild, showed them how 
+to withstand the ravages of fire and the bite of steel and cold. 
+While the Bearskins aren’t organized into a society or order, their 
+ways get taught and passed down just the same, from fighter to 
+fighter, keeping the wisdom of Odin alive and the path to 
+Valhalla open.
+
+Choose a Name
+
+Hrolf, Astrid, Grendel, Kolga, Rollo, Delling, Sven, Sváfa, 
+Thorstein, Kára, Bosi, Hervör, Asumund, Eyfura, Bodvar, Thora, 
+Volgarr, Bylgja, Arngrim, Hefring, Björn, Angeyja, Styrbjörn, 
+Atla, Gunnar, Eyrgjafa, Flosi, Imðr, Brandt, Ulfrún, Einar, Fan, 
+Olavi, Yenne, Ove, Sketh, Tarben
+
+Choose a Look
+
+Body: Hulking, sinewy, towering, ritualistic markings
+
+Eyes: Piercing, intense, strangely colored, scarred shut
+
+Hair: Loose and wild, mohawk, messily bound
+
+Clothes: Furs and pelts, rough hewn cloak
+
+Vitals
+
+Max HP is 8+CON
+
+Base Damage is 1D10
+
+Background
+
+Choose your heritage 
+
+Bardic
+
+You are one of Odin’s Men and therefore privy to his wisdom 
+as well as his strength. When you Spout Lore about signs or 
+omens, take +1.
+
+Dwarf-Blooded
+
+Your constitution is unmatched. You are immune to 
+poisons and hangovers.
+
+Not One for Words
+
+You may use STR to intimidate instead of CHA to Parley.
+
+Starting Moves
+
+You start with these moves
+
+Blood Rush
+
+When you succumb to a raging blood-lust, hold 3. While berserking, 
+you may spend hold, one for one, to choose:
+
+ Add 1D6 extra damage to an attack; missed attacks 
+while raging may result in collateral damage to other 
+people/objects
+
+ Destroy or damage something the enemy is carrying
+
+ Take +1 forward when bring your might to bear against 
+an enemy or your surroundings or otherwise perform a 
+feat of strength
+
+ Take no damage from the next successful melee attack 
+against you.
+
+Once you’re out of hold, you become Docile. You may spend 
+all of your hold to become Docile at any time to end the Blood 
+Rush.
+
+Docile
+
+When your blood-lust fades, you become docile. Take -1 ongoing 
+to all actions and another Blood Rush cannot be triggered until 
+after you Make Camp.
+
+No Trappings of Men
+
+When you cast off the burdens of civilization by sleeping under 
+the open sky and wearing only pelts and hides, take +1 armor.
+
+Rampage
+
+Roll +STR to bullrush through or destroy obstacles. On a 10+ 
+you break through or destroy an object in your path. On a 7-9 
+you can only manage a lesser version of your intent. On a miss, 
+you’re put in a bad position.
+
+
+Shield Biter
+
+When you show your enemy your shield and bite it to show that 
+you do not fear of pain or death in battle and aren’t bound by 
+their laws, your weapon gains the Forceful tag. Using your 
+shield in battle as armor immediately removes this tag for the 
+remainder of the encounter.
+
+Alignment
+
+Choose your leaning 
+
+Neutral
+
+Plunge recklessly ahead in spite of overwhelming danger.
+
+Evil
+
+Plunder a trophy from a bested foe.
+
+Gear:
+
+Begin with this equipment
+
+Your load is 8+ STR. 
+
+You have a pouch of Henbane (3 uses) that provides +1 armor 
+during Blood Rush and -1 armor during Docile as well as a 
+Ceremonial Shield (1 weight).
+
+Choose your weapon:
+
+ Two handed axe (close, +1 damage, 2 weight)
+
+ War spear (reach, +1 damage, 2 weight)
+
+Choose your animal totem:
+
+ Bear
+ Wolf
+ Boar
+ Eagle
+ Serpent
+ Goat
+
+Bonds
+
+Explore with others before beginning or write your own
+
+      is a coward. I will show them what valor is.
+
+     may not be like me, but I think they will find 
+their way to Valhalla with a noble death.
+
+I do not have the patience for the way      clings to 
+the bondage of civilization.
+
+They may try to hide it but     fears me. For good 
+reason.
+
+Advanced Moves
+
+When you take a level between 2-5, choose one of the following
+
+On the Eve of Battle
+
+Perform a sacred demonstration in preparation for battle. The 
+purification and subsequent anointment takes an hour. Ignore 
+either: the effect or damage from the first attack made against 
+you in your next fight.
+
+Cunning
+
+You may now add the following options to use during your 
+Blood Rush:
+
+ Strike them a blow so mighty that they’re stunned
+
+ Draw all attention to yourself.
+
+Blood Roar
+
+When you scream like a bloodthirsty animal and charge into 
+battle, demoralize the enemy combatant(s). Take +1 on the first 
+attack you make per combat encounter.
+
+Cold Blooded
+
+You’re incapable of being intimidated.
+
+Odin’s Men
+
+Take a move from the Skald class.
+
+Live to Fight
+
+When you go into a rage and activate your Blood Rush, regain 
+CON + 1D6 HP.
+
+Unkillable
+
+When you take your Last Breath, on a 10+ immediately return 
+to consciousness with 1HP. Your Blood Rush immediately 
+triggers, even if you were Docile.
+
+Improved Blood Rush
+
+Take +1 hold during Blood Rush.
+
+Evil Eye
+
+When you stare into the whites of your enemy’s eyes, your bestial 
+nature intimidates even their weapons, blunting them. Take +1 
+armor until the end of combat.
+
+Beastkin
+
+When you call upon the spirit of your animal totem and change 
+your physical form, roll +CON. On a 10+ hold 3, on a 7-9 
+hold 2. On a miss, hold 1 in addition to whatever the GM tells 
+you. You can take the physical form of your animal totem and 
+any innate talents and weaknesses they have. When you run out 
+of hold, you revert back to your natural form, or you can spend 
+all your hold to revert back whenever you wish. The GM will 
+describe 1 or more moves your animal form has. Spend hold to 
+do these actions. You retain all of your normal stats during this 
+time.
+
+Advanced Moves cont’d
+
+When you take a level between 6-10, choose one of the following
+
+Fire Dance
+
+Requires: On the Eve of Battle
+
+Your ritual now incorporates an elaborate, wild dance and a large 
+bonfire. You are immune to the destructive nature of fire while 
+Blood Rush is active.
+
+Blood Payment
+
+Requires: Fire Dance
+
+Your ritual is now perfected with an offering of your own blood. 
+You are immune to the damage inflicted by bladed, slashing 
+weapons while your Blood Rush is active.
+
+Unleashed
+
+You can now incorporate the following into your Blood Rush 
+options:
+
+ Your weapon gains the Messy tag
+
+Greater Blood Rush
+
+Replaces: Improved Blood Rush
+
+Gain +2 hold when activating Blood Rush.
+
+Berserker’s Vigor
+
+Replaces: Live to Fight
+
+When you go into a rage and activate your Blood Rush, regain 
+CON + 1D10 HP.
+
+Chain Kill
+
+Gain +1 hold with every subsequent kill during Blood Rush.
+
+Well of Knowledge
+
+Take one move from the Skald class.
+
+Overpower
+
+When you roll a 12+ on any Defy Danger roll, you turn the 
+danger back on itself. The GM will describe how.
+
+THE SKALD
+
+For fabling braggarts
+Full am I of scorn,
+Of worthy friends:
+Courts I of monarchs
+A many have sought,
+A gallant minstrel
+Of guileless mood.
+
+Arinbjarnarkviða, Egil’s Saga
+
+ Everyone knows that there is power in words, though 
+maybe none know it as well as the Skald. A Skald can invoke 
+the gods, trace notable bloodlines, immortalize heroic deeds and 
+cowardly acts for all of time. When the Skald speaks, they create 
+truth. When the Skald speaks, they make things real. 
+
+ All jarls and commanders and leaders are very aware of 
+the power a Skald wields, especially over them. Make an 
+enemy with a vengeful Skald and your whole seat of power 
+and influence could be facing a smear campaign or worse still, 
+simple erasure from the minds of the people you need to hold 
+sway over. Authority in Stromgard is often made on tremulous 
+compromises and no one has better insight to these webs than a 
+Skald. They know full well that a simple lie or a flattering tale is 
+all that it takes to manipulate the threads of fate.
+
+ Above all, however, the Skald is an academic and lorekeeper, 
+a resource the community depends on for information, 
+mediation, and education. Skalds are highly respected because 
+of their role in most settlements and they have little trouble 
+interacting with people from all walks of life. Noble-born and 
+other ruling classes depend on them to record their lineage and 
+settle matters of court as an unbiased third party, warriors ask 
+the Skald to send their prayers to the gods on the eve of battle, 
+sailors employ the Skald on long expeditions to record their 
+journeys and take the lead with any foreign interaction. 
+
+ The trappings may be unassuming for a Skald but their 
+power is immense and far-reaching. Society relies on Skalds to 
+record history and ensure the stories of Stromgard, and its 
+people, survive. They are the thread that binds the past to the 
+present and the present to the future.
+
+Choose a Name
+
+Bersi, Ingeborg, Bragi, Sigrith, Snorri, Brynhild, Elvindr, Vlasta, 
+Egill, Galica, Kormakr, Blenda, Eilifr, Rani, Hallfredr, Ingrid, 
+Einarr, Darby, Gunnalgur, Lamone, Sigvatr, Ragna, Ottar, Runa, 
+Arnor, Selby, Njal, Soini, Tua, Helgi, Tove, Heimir, Thyra, 
+Völsung
+
+Choose a Look
+
+Body: Gangly, svelte, thick, sturdy
+
+Eyes: Clever, bright, sharp, beguiling
+
+Hair: Intricate braids, pulled high, shorn, loose
+
+Clothes: Fur-lined cloak, buckskin tunic
+
+Vitals
+
+Max HP is 6+CON
+
+Base Damage is 1D6
+
+Background
+
+Choose your heritage 
+
+Networker
+
+When you reach out to another skald or bardic professional for 
+information, take +1 forward when acting on their tip.
+
+Mixed Blood
+
+Choose a secondary culture and take a +1 to Spout Lore in 
+matters that concern them.
+
+Starting Moves
+
+Historian
+
+When you visit a famous place, or somewhere you’ve been 
+before, ask the GM one of the following questions. The GM 
+must answer truthfully. 
+
+ Is everything as it seems here?
+
+ What is notable about this location’s history?
+
+ What do the people here value?
+
+ What are the locals wary of?
+
+
+Mediary
+
+Your occupation makes you a valued member of society. Until 
+you give people a reason to mistrust you, they will tend to take 
+you at your word. This will not keep already-hostile enemies 
+from attacking you.
+
+Well-Timed Strikes
+
+When you Hack & Slash, on a 7-9 take +1 armor forward. On 
+a 10+ you still gain the +1 armor forward but an ally of your 
+choice also gains +1 forward to attack the enemy.
+
+Cultural
+
+You can communicate on a basic level with any culture or race.
+
+Recitation
+
+When you perform for a crowd of people, roll +CHA. On a 10+ 
+you influence the crowd’s emotions, on a 7-9 choose one:
+
+ The effect lasts longer than one minute but less than 
+five
+
+ The effect is deeply moving and the crowd is stirred 
+to intense reaction
+
+ The magic is subtle and the crowd isn’t immediately 
+aware of your manipulation when the effect wears off
+
+Direct
+
+When you make intense, direct eye contact with someone in an 
+appropriate setting, you may ask them what their true motivation 
+is. The character will tell the truth even if they would have 
+hidden it otherwise.
+
+Alignment
+
+Choose your leaning 
+
+Neutral
+
+Resolve a fight with words instead of bloodshed.
+
+Chaotic
+
+Deliberately delude someone for your own gain.
+
+Gear:
+
+Begin with this equipment
+
+Your load is 9+ STR. 
+
+You start with a favor owed to you by a local noble, wealthy 
+patron, or other prominent person for expert services rendered.
+
+Choose your signature instrument:
+
+ Panflute made of auroch horns and sheep bones
+
+ Small horsehair harp with mysterious runes carved into 
+the body
+
+ Metal lur, a long horn that was once used to marshal a 
+great army.
+
+ A set of horn pipes, an heirloom of your family
+
+Choose your equipment:
+
+ Bill Hook (reach, 2 weight)
+
+ Heirloom Short Sword (close, 1 weight) and Wooden 
+Shield (+1 armor, 2 weight)
+
+And take your supplies:
+
+ Adventuring Gear (5 uses, 1 weight)
+
+ Bandages (3 uses, slow, 0 weight)
+
+ A pouch of 5 coins
+
+Bonds:
+
+Explore with others before starting or write your own
+
+      ‘s deeds are great and numerous. My songs 
+will immortalize them.
+
+     has a radical worldview that deserves 
+further study.
+
+     is more than who they say they are.
+
+Advanced Moves
+
+When you take a level between 2-5, choose one of the following
+
+Serenity Now
+
+Recitation now affects animals
+
+Divine Leverage
+
+When you take your Last Breath, if you trigger a meeting with 
+Death, make them an offer instead. If Death agrees, return to 
+the living stabilized with 1HP.
+
+Kenning
+
+When you use the same metaphor to describe yourself or one of 
+your allies in all of your tales, roll +CHA. On a 10+ choose an 
+epithet to attach to yourself or the ally you sang about. People 
+will treat it as though it is true until proven otherwise. On a 
+7-9, the effect is temporary, the GM will decide how long.
+
+Traverse Tale
+
+When you spin an intricate tale while you Undertake a Perilous 
+Journey, cut the duration in half.
+
+Well-timed Sidestep
+
+Replaces: Well-timed Strikes
+
+When you Hack & Slash, on a 7-9 take +2 armor forward. On 
+a 10+ you still gain the +2 armor forward but an ally of your 
+choice also gains +1 forward to attack the enemy.
+
+Tilt Tactics
+
+Single out an enemy and let loose on their insecurities. That 
+enemy considers you its highest priority target.
+
+Radical Leanings
+
+When you introduce a new idea to an NPC roll +CHA. On a 
+10+ they think the idea was their own and take to it with 
+fervor. On a 7-9 their passion fades in a day or so. On a miss, 
+they respond negatively and take a hard stance against it.
+
+Bolster
+
+When you bolster the courage of others roll +CHA. On a 10+ 
+they shake off all fear and doubt, becoming brave instantly. On 
+a 7-9 the effect is fleeting; they realize it is superficial and resort 
+to cowardice. On a miss, they’re cowed and terrified.
+
+Slander
+
+When you ruthlessly insult an NPC, roll +CHA. On a 10+ they 
+make an extremely rash decision that will have lasting 
+consequences. On a 7-9 you cross a line and they will have their 
+revenge. On a miss, you’ve gone too far and they blow up here 
+and now.
+
+Double or Nothing
+
+Whenever you’re about to take damage, describe how you 
+luckily avoid it and roll +DEX. On a 10+ you escape the danger 
+and take no penalty. On a 7-9 you endure the blow you tried 
+to avoid and you’re committed to your daring but failed dodge. 
+On a miss, you endure the blow and something else bad 
+happens. The GM will tell you what.
+
+Advanced Moves cont’d
+
+When you take a level between 6-10, choose one of the following
+
+Story and Song
+
+When you perform this song roll +CHA. On a 10+ you can 
+convince anyone who hears it that its lyrics are the literal truth. 
+On a 7-9 you believe it too. On a miss, a memory of your own 
+gets corrupted somehow.
+
+Thu’um
+
+Your word is a weapon. When you shout your battle cry at an 
+enemy, roll +CHA. On a 10+ it deals 1D10 damage with the 
+Forceful tag. On a 7-9 choose one:
+
+ Roll damage twice and take the lower result.
+
+ Take -1 ongoing to using Thu’um until you Make 
+Camp.
+
+ You draw unwelcome attention or put yourself in a 
+spot.
+
+Incite
+
+Requires: Radical Leanings
+
+You may now apply the effects of Radical Leanings to a group of 
+people of 12 or fewer.
+
+Evil Eye
+
+When you enter into combat roll +CHA. On a 10+ hold 2, on 
+a 7-9 hold 1. Spend hold to make eye contact with an NPC, 
+who flinches or freezes and can’t act or break the contact until 
+you look away. On a miss, your enemies immediately identify 
+you as their biggest threat.
+
+Music Soothes the Savage Beast
+
+Recitation now affects all creatures, including monsters.
+
+Jack of All Trades
+
+Take a move from another class.
+
+Rules of Engagement
+
+When you give an enemy you have damaged the chance to escape or 
+surrender, roll +CHA. On a 10+, unless they are willing to die 
+fighting you, they oblige. On a 7-9 they fear you and you take 
++1 armor against them for the remainder of the encounter.
+
+THE HUNTER
+
+“Many men both saw and heard a great number of huntsmen 
+hunting. The huntsmen were shadowed, huge, and hideous, and rode on black 
+horses and on black he-goats, and their hounds were jet black, with eyes like 
+saucers, and horrible.”
+
+Peterborough Chronicle, Laud Manuscript
+
+ The Hunters are a mysterious, isolated sect. Hardly 
+anything is known about their structure (if there’s even any to be 
+found) except the fact that they are unerringly sadistic, anarchistic 
+vigilantes who hunt the dishonorable and the unpunished. 
+The Hunter code of honor is difficult to read for outsiders but 
+when a Hunter decides on a mark, nothing will keep them from 
+taking their hit. Still, the fact remains that while overall, the 
+moral compass of the Hunters remains highly individualized. 
+It is clear that these shadowy rogues are committed to serving 
+justice, however they define it.
+
+ The Hunters are incredibly secretive, especially about 
+their order and its level of cohesion. Even under threat of 
+torture and physical duress, Hunters rarely spill anything 
+meaningful about their structure. Facts are, therefore, quite 
+scarce but bribe the right skald and they may tell a few choice 
+pieces of information. While most of this is unverifiable simply 
+due to the nature of the Hunters’ silence, their order is rumored 
+to have originated in the deep belt of forest at the north-
+eastern edge of Stromgard’s borders. This stretch of woodland, 
+the Vidrmaark, is dense and dark and it takes very little 
+imagination to picture secret meetings and rituals taking place 
+here, free from the prying eyes of even the gods.
+
+ Many lorekeepers also believe the rumor that Hunters 
+will accept anyone into their fold and forgive all of their sins if 
+they pass a rigorous initiation ritual that is not only physically 
+demanding, but emotionally debilitating and mentally draining. 
+And also reportedly very fatal.
+
+ These are more obscure rumors than what the common 
+folk typically hear, however. Mostly, people know to stay away 
+from Hunters and to flee at the sound a hunting party on dark, 
+misty nights. Some bolder parents tell stories of Hunters to 
+misbehaving children and warn them that a shadowy assassin 
+will materialize at night to make them pay for their transgressions. 
+Most wiser people, however, avoid speaking about 
+Hunters in public or in polite company as there are superstitions 
+and conspiracies that claim they hide in plain sight and are 
+endlessly resourceful with disguising themselves. It is also 
+believed that to speak of Hunters aloud is to invite their 
+judgment, whatever that may be based on.
+
+ It is also common knowledge that the Hunters are 
+devoted to (some say worship) something called the Wild Hunt- 
+a ghostly cavalcade of demonic forces that roam the land for 
+cowards, backstabbers, and other dishonorable and then 
+forcefully drag them off to Helheim, and the dark lady Hel, 
+herself. Typically rumored to occur over the dead of winter, a 
+legion of mounted, monstrous riders led by a huge horned figure 
+sound their enormous hunting horns and rampage across the 
+land. Hunters chase worthy quarry as a show of devotion to the 
+Wild Hunt, to prove their capabilities and earn a spot for 
+themselves so that they may hunt even in death. This, in turn, is 
+also why when a Hunter suffers pain or insult, absolutely 
+nothing will deter them from delivering recompense.
+
+ To the rare few who witness the Hunter in battle without 
+winding up as a stain on their blade, they are inevitably left in 
+awe by their fleet footed speed and brutal, debilitating strikes. 
+They are powerful fighters and brutally unrestrained. Pain and 
+injury hardly seem to slow them at all. They are resourceful, 
+cunning, adaptable, and above all, stubbornly determined to 
+produce results.
+
+ 
+
+Choose a Name
+
+Thorson, Ragni, Torben, Ruthulan, Tor, Nora, Ulf, Hildr, 
+Vidar, Ylva, Viggo, Hlökk, Skögul, Geirskögul, Halla, 
+Gunnbjorn, Ölrún, Bjarni, Helga, Leif, Sifka, Sigmund, 
+Hergerd, Borghilde, Ingeld, Egil, Gudrun, Breca, Ogn, Haki, 
+Solveig, Hama, Bara, Mörðr, Dagmar
+
+Choose a Look:
+
+Body: Lithe, sinewy, athletic
+
+Eyes: Mismatched, hawkish, feral
+
+Hair: Wild, adorned with small antlers or plants, messy plait
+
+Clothes: Oversized cowl, ornamental mask
+
+Vitals:
+
+Max HP is 6+CON
+
+Base Damage is 1D8
+
+Background
+
+Choose your heritage 
+
+Shamanic
+
+You have a special hatred for the undead. When you hunt down 
+and destroy anything abusing the natural cycle of life and death, 
+take +1 ongoing against them.
+
+Eagle-Eyed
+
+Intangible obstructions like smoke or bad weather do not inhibit 
+your ability to see in daylight.
+
+Hardened
+
+You require little in comfort. You regain full HP even when 
+roughing it outdoors as long as you can get a few hours’ sleep.
+
+Starting Moves
+
+The Hunter’s Mark
+
+Hunters mark themselves during a secret initiation ritual. 
+Choose a gift:
+
+ Dark Vision
+
+ Thin geometric designs in black ink trail up the sides 
+of your skull and down the length of your throat. 
+They are imbued with a kind of warding magic that 
+allows you to see clearly in the dark, both natural and 
+magical.
+
+Flame Soak
+
+ Curling flares in crimson are etched into the palms 
+of your hands. The runic design soaks up to 1D8 
+
+ fire damage inflicted by a single instance. Once you 
+
+ have absorbed the flame, you will need to take a long 
+
+ rest or Make Camp before you can use this ability 
+again. You can also create small flames at your finger 
+tips (about the size of a match's flame) for utility 
+purposes like lighting a candle.
+
+ Water Breath
+
+ Rolling, undulating circular designs in cobalt blue 
+are carved into your arms, shoulders, and chest. The 
+sigils allow you to breathe water for 1D10 minutes, 
+though once that is depleted you will need to take 
+a long rest or Make Camp before you can use this 
+boon again.
+
+ Feather Fall
+
+ Intricate feathers have been painstakingly stippled 
+into your back and down your spine. When you fall 
+from a height of 40ft or less, take no damage from 
+impact.
+
+Fleet-Footed
+
+When you wear no armor, take Armor equal to your DEX 
+
+bonus.
+
+Insomniac
+
+Take +1 to Take Watch rolls.
+
+True Sight
+
+When you Discern Realities during combat, take +1.
+
+Alignment
+
+Choose your leaning 
+
+Good
+
+Do justice regardless of laws or personal risk.
+
+Chaotic
+
+Exact vengeance against someone or something that harmed 
+you. Charge interest.
+
+Gear
+
+Begin with this equipment
+
+Your load is 9+ STR. 
+
+You start with a memento of your best kill. Describe it. You 
+also have Healing Poultices (5 uses, 0 weight)
+
+Choose your armament:
+
+ Short Bow (near, 2 weight), Quiver of Arrows (x5 
+
+ ammo, 1 weight), and a Hunting Dagger (hand, 1
+
+ weight)
+
+ Club (close, 2 weight) and Stone Dagger (hand, 1 
+
+ weight)
+
+ Rough Halberd (reach, two-handed, 2 weight)
+
+Bonds
+
+Explore with others before starting or write your own
+ 
+        has insulted me and a Hunter never forgets.
+
+        is weak and in need of protection from those 
+that would exploit them for selfish gain.
+
+        does not understand the true nature of the 
+weak and the strong.
+
+Advanced Moves
+
+When you take a level between 2-5, choose one of the following
+
+Weathered
+
+Take a move from the Ranger class.
+
+Pay it Back
+
+Take +1 ongoing to attacks against anything that successfully 
+damages you.
+
+Resourceful
+
+When you Make Camp, provided you are in a suitable area, you 
+can gather herbs to make one Healing Poultice per night.
+
+Wild Hunt
+
+When you mark a target befitting of your skills, add +1D4 damage 
+on your first attack against it.
+
+Knife in the Back
+
+Take the Thief move Backstab.
+
+Nimble
+
+When you take the most direct path between two points, regardless 
+of obstacles or structures in the way, roll +DEX. On a 7-9 
+you make it across but cannot use the same path back.
+
+Catlike
+
+When you Defy Danger DEX take +1.
+
+Beat Feet
+
+When you run away from an enemy, roll +DEX. On a 10+ you 
+and your allies escape without a trace. On a 7-9 you can get 
+away but your allies aren’t able to follow the path you set as 
+quietly.
+
+Fast Learner
+
+When you see someone else successfully Defy Danger, take a +1 to 
+copy the action.
+
+Eagle’s Strike
+
+When you attack from above with intent to kill, your attack 
+damage counts as Piercing damage.
+
+Advanced Moves cont’d
+
+When you take a level between 6-10, choose one of the following
+
+Those of the North
+
+Take a move from the Ranger class list.
+
+Feral
+
+Take either the Cheap Shot OR Shoot First move from the Thief 
+class list.
+
+Tributes For the Horned Rider
+
+If you take time to mark your kills in the name of the Wild Hunt 
+after a conflict, take +1 forward.
+
+Hard to Kill
+
+Whenever you suffer a debility in combat take +1 against 
+whatever caused it.
+
+Paid in Spades
+
+Requires: Pay it Back
+
+During a battle you can choose to take an extra 1D4 damage on 
+a hit (ignoring armor) to add your level to the damage dealt on 
+your next successful attack to anything that has already damaged 
+you.
+
+Grounded
+
+You are deeply rooted in the tangible experiences of the world 
+and are immune to thought probing, mind control, and other 
+unnatural influences.
+
+Feline Grace
+
+Replaces: Catlike
+
+When you Defy Danger DEX take +2.
+
+Deader
+
+Mark your target. Even if they escape you they will be known to 
+other Hunters and will find no rest anywhere.
+
+THE STORMCALLER
+
+The sea, storm-driven, seeks heaven itself,
+O’er the earth it flows, the air grows sterile,
+Then follow the snows and the furious winds
+
+Hyndluljoth, Poetic Edda
+
+ The arcane is always a dangerous frontier but maybe not 
+as much as it is for a Stormcaller. Few who call themselves 
+wizards or mages can conjure up so much power at their 
+fingertips. No mere geomancer, the ability to be a Stormcaller is 
+a rare gift that can manifest unexpectedly and suddenly. There 
+are tales of Stormcallers that suddenly learn their aptitude for 
+controlling wind and lightning well into adulthood and could 
+hardly master cantrips up to that point. Set apart by other 
+elemental mages by their raw power, Stormcallers are resourceful 
+and typically wicked smart, always using the world around them 
+to their advantage in a pinch. 
+
+ Their skill set is highly sought after amongst sailors as 
+well. Stormcallers can single-handedly guide a full fleet to the 
+edges of the world at great speeds while ensuring that weather 
+and tides are agreeable and a fair wind blows at their backs. 
+Also, should any monstrosities below the waves come up to 
+cause trouble, a Stormcaller at the ready is more effective at 
+dispatching an issue than men clambering between boats and 
+hurling spears. Conversely, there are few things that can cause as 
+much chaos for sailors as an angry Stormcaller.
+
+ These elementalists are resourceful as well, forging vicious 
+weapons out of mere ice, limited only by their wild imaginations- 
+which makes them almost impossible to catch unarmed 
+and unawares. Stormcallers are typically fringe-dwellers, honing 
+their craft in isolated snowfields or secluded glacial expanses due 
+to the primal and sometimes wild nature of their powers. The 
+loyalty and camaraderie of these powerful mages must be earned, 
+therefore, though Stormcallers are motivated by much more 
+than simply gold. Their strength is highly prized but also feared 
+in equal measure.
+
+ Leveraging their desires over the primal forces can add to 
+the Stormcaller’s commonly capricious nature. Much like the 
+storms they summon and harness, the mages themselves can be 
+fierce and wild, difficult to keep under control and impossible 
+to pin down. Very few prisons can adequately hold a Stormcaller... 
+or even amount to little more than an inconvenience. 
+Adittionally, the retribution a Stormcaller could wreak once free 
+is typically enough to damper any bright ideas about imprisoning 
+them so directly. Tales have sprung up here and there about 
+whole villages suddenly buried under snow or sealed off from 
+mountain passes... And while Stormcallers are adept at close 
+range combat, they can make the most of long range conflicts by 
+blockading areas and turning it into a battle of attrition, accelerate 
+food rot with dank weather, flood them out, manipulate the 
+cycle of seasons itself. 
+
+ Stormcallers must be wary, however. Of their own 
+double-edged abilities, of course, but also of those with an 
+agenda and a need for firepower.
+
+Choose a Name:
+
+Agnar, Hagbarðr, Dröfn, Haco, Dúfa, Höðbroddr, Hrönn, 
+Ragnarr, Kólga, Starkaðr, Unn, Caldar, Uðr, Carr, An, Staan, 
+Reed, Stigr, Gráinne, Sutherlund, Muirisc, Yudit, Furatha, 
+Kylda, Brenna, Iona, Halvdan, Visäte, Gunnborga, Öpir, 
+Frögärd, Ösby
+
+Choose a Look:
+
+Eyes: Unseeing, sunken, shadowed
+
+Hair: Long and tousled, unevenly shorn, strangely colored
+
+Clothes: Well-crafted robes, dyed kyrtill, shaggy cloak with 
+ornamental pin
+
+Vitals:
+
+Max HP is 4+CON
+
+Base Damage is 1D8
+
+Background
+
+Choose your heritage 
+
+Grey-Elvish
+
+You can walk through snow or mud or other malleable surfaces 
+without leaving tracks.
+
+Störmson
+
+You cannot be hindered by rain or snow while moving 
+under your own power.
+
+Apt Student
+
+When you Spout Lore about the natural world (like weather or 
+geography) or the finer points of arcane workings, take +1.
+
+Starting Moves
+
+Biting Words
+
+When you deliberately escalate a situation that leads to a fight, 
+you can attack first.
+
+Ice Weapon
+
+Like any good mage, you’ve learned to harness your powers 
+for offensive purposes. When you conjure a weapon of ice, 
+roll+WIS. You can use your WIS as STR or DEX when attacking 
+with this weapon. This weapon always has the Touch, Dangerous, 
+and x3 Uses tags. Each attack counts as a use. On a 10+ 
+choose two of the following tags to add. On a 7-9 choose one.
+
+ Hand
+
+ Thrown/Near
+
+ +1 Damage
+
+ Remove the Dangerous tag
+
+Brittle
+
+Your icy aura degrades blade edges. When you take damage from 
+an enemy attack they will suffer 1D4 reduced damage on their 
+next hit against any target.
+
+Fragile
+
+You can weaken an object small enough to hold in your hand to 
+the point where it will fracture and break if it is moved. You can 
+break it yourself or choose to leave it for someone else to shatter.
+
+Ice in the Veins
+
+You’re immune to the effects of magical and nonmagical cold. 
+Weapons or the weight of an ice floe will still hurt but the 
+coldness itself does nothing
+
+Glass Cannon
+
+Gain +1 damage to attacks while wearing no armor.
+
+Alignment
+
+Choose your leaning 
+
+Chaotic
+
+Disregard a figure of authority.
+
+Lawful
+
+Use your powers to enforce the law.
+
+Gear
+
+Begin with this equipment
+
+Your load is 7+ STR. 
+
+You start with:
+
+Dungeon Rations (5 uses, 1 weight), a Stone Dagger (hand, 1 
+weight), and a pouch of Poultices and Herbs (2 uses, 1 weight)
+
+Bonds
+
+Explore with others before starting or write your own
+
+        fundamentally misunderstands the nature 
+of my power.
+
+I share a secret with       that could upset the balance 
+of power.
+
+I must protect        from the destructive realities of 
+the world.
+
+Advanced Moves
+
+When you take a level between 2-5, choose one of the following
+
+Shield
+
+When you magically brace yourself for an attack against a person, 
+place, or thing, roll +WIS. On a 10+ hold 3, on a 7-9 hold 1, 
+on a miss- in addition to whatever the GM tells you- something 
+goes terribly wrong. As long as you’re braced and concentrating, 
+spend hold, 1 for 1, to do the following:
+
+ Raise a wall of ice to absorb half of the attack’s 
+
+ damage or effect.
+
+ A blast of icy wind leaves the assailant vulnerable to an 
+ally’s attack, giving them +1 forward.
+
+ Make a show of crackling energy and thunder, 
+directing the enemy’s attention and attack to yourself.
+
+ Raise jagged lances of ice from thin air to deal damage 
+to the enemy equal to your level.
+
+Improved Ice Weapon
+
+You may now choose to add the following tags when creating an 
+Ice Weapon:
+
+ Messy
+
+ Forceful
+
+ Reach
+
+ Thrown/Far
+
+Lightning Step
+
+You can teleport to any Near location. This also produces a 
+deafening thunderclap that can be heard for miles.
+
+Blast
+
+When you create a blast of freezing wind that tears through the 
+area for about a minute, roll+WIS. On a 10+ choose two 
+effects, on a 7-9 choose one.
+
+ Cold enough to slow enemy movement by half.
+
+ Strong enough to cause light damage to homes and 
+ships.
+
+ Whips up snow or dirt to obscure visibility.
+
+ Pushes one object your size or smaller towards or 
+away from you.
+
+Stormcall
+
+With one hour of meditation, create a blizzard or torrential rainstorm 
+that lasts for 1D4 days. Even out of season, precipitation 
+will impede travel and moor boats.
+
+Shaper
+
+When you wish to create something, roll +WIS. On a 7-9, 
+choose what price you pay to build your structure.
+
+ It takes an hour to make
+
+ It is extremely fragile
+
+ It collapses without active concentration
+
+ No one you do not have a bond with can touch it 
+without it melting.
+
+Immobilize
+
+When you grab someone with thick ice that bursts from the 
+ground, roll +WIS. On a 7-9, choose what price to pay. 
+
+ The restraints are extremely fragile and won’t hold for 
+long against struggling
+
+The restraints must be maintained with active concentration
+
+ The restraints can only hold two limbs
+
+ The restraints slow them or monopolize their attention 
+for a moment but do not hold them.
+
+Advanced Moves:
+
+When you take a level between 6-10, choose one of the following
+
+Freezing Blast
+
+Requires: Blast
+
+You can now add ice shards to Blast that cause 1D4 damage to 
+anyone caught in the gust as an effect.
+
+Frozen Hide
+
+Add +1 Armor.
+
+Fractured Prison
+
+Requires: Immobilize
+
+When you Immobilize someone you may now choose to deal 
+them 1D4 damage as an effect.
+
+Lightning Stride
+
+Requires: Lightning Step
+
+If you choose, you may now teleport through enemies that are in 
+your available zone, dealing 1D4 damage to each.
+
+To the Bone
+
+Through advanced harnessing of destructive natural forces, your 
+Ice Weapon now permanently takes on the Ignores Armor tag.
+
+Construct
+
+When you take time to create a figure made from ice and snow, 
+treat it as a character that only has access to basic moves, has a 
++0 modifier for all stats, HP equal to your own level, and has a 
+damage die of D6. Roll +WIS to issue orders to the construct. 
+On a 10+, choose 3. On a 7-9, choose 2. On a miss, choose 1 
+in addition to whatever else the GM says. 
+
+ Its damage die increases to 1D8
+
+ +1 HP per level
+
+ It has 1 armor
+
+ It has the Large and Reach tags
+
+ One stat has a +2 modifier
+
+ You can see and hear anything it sees or hears 
+
+You can only command one construct at a time. If you summon 
+a second one, the first melts.
+
+Frozen Solid
+
+When you freeze any living creature (up to Large size) solid, roll 
++WIS. On a 10+ the creature is completely frozen. On a 7-9 
+deal 1D6 damage and they regain their mobility after 1 minute.
+
+THE CRONE
+
+The wide-seeing witch, in magic wise;
+Minds she bewitched that were moved by her magic
+
+Völuspá, Poetic Edda
+
+ There are few in Stromgard so shrouded in mystery as the 
+Crone. For a long time, it was said that Crones were old women 
+living in remote huts and that you must show them respect and 
+offer a gift if you expected to benefit from the encounter. Today, 
+Crones come in all shapes, sizes, and gender persuasions. It is 
+not so much a physical descriptor as a title, one that describes a 
+certain skill set and lays out a certain expectation for the layperson 
+making an attempt at interaction.
+
+ Crones are, however, very powerful and still treated with 
+some amount of caution all over the land. They are regarded as 
+wisepeople, skilled hedgewitches and shamans- but their powers 
+come with a price and they are notoriously unpredictable. They 
+would just as soon wreak havoc on the land then heal a blight. 
+Crones can deliver curses, sicken livestock, read sleeping minds, 
+plant suggestions… To ask for the services of one of these mages 
+is to ask for all these horrible things and worse should you not 
+appease whatever request they make in exchange.
+
+ With so many tales circulating about the doings of these 
+powerful witches, most settlements of Stromgard will go out of 
+their way to show hospitality to a Crone- for fear of being cursed 
+in some way, not because they desire to show kindness. Because 
+the Crone’s reputation will nearly always precede them, they can 
+have difficulty meshing normally with villagers, though they 
+typically have no trouble intimidating their way to whatever 
+they require.
+
+Choose a Name
+
+Ufkel, Aella, Beyla, Byggvir, Fitela, Eldir, Himinglæva, Glenr, 
+Eistla, Angantyr, Kahina, Folcwalding, Sarra, Heiðrekr, Oya, 
+Hjalmar, Lethsa, Svafrlami, Ithothel, Eilo, Sinfjötli, Mithna, 
+Gudrun, Andrasta, Ivar, Nemae, Gangleri, Skuld, Göndul, 
+Asmund, Asta
+
+Choose a Look
+
+Body: Crooked, weathered, youthful
+
+Eyes: Stone cold, glittering, yellowed
+
+Hair: Covered, long and tangled, wiry
+
+Clothes: Layers upon layers, many pouches and bags, wide 
+brimmed and battered hat
+
+Vitals
+
+Max HP is 8+CON
+
+Base Damage is 1D4
+
+Background
+
+Choose your heritage 
+
+Wiseperson
+
+People might be intimidated by you but they also know that you 
+have vast knowledge and experience. Take +1 to Parley if you 
+use this as leverage.
+
+Wyrd-Magicks
+
+A widely held belief is that to say something out loud gives it 
+a kind of power. Take +1 whenever you Spout Lore about the 
+arcane or mythical.
+
+Starting Moves
+
+Curse
+
+When you suffer an insult or slight from someone and curse them, 
+roll +INT. On a 7-9 choose one effect below. On a 10+ the 
+curse manifests in an additional, unexpected way. No matter the 
+roll, you may choose whether the effects manifest immediately 
+or at a later point in time.
+
+ Blight the land
+
+ Sicken livestock
+
+ Cause illness
+
+ Cause recurring nightmares
+
+ Cause the target to be haunted by a restless spirit
+
+ Cause an extended unlucky period
+
+Energy Delay
+
+When you use your powers to alter the natural energy of something- 
+inertia, force, mass, etc- by absorbing it, describe how. At 
+a later time, you will have to release the pent up energy in some 
+manner, usually at a destructive cost to yourself. You can hold 
+on to one unique force at a time. Force output must match its 
+original direction relative to you. A stab wound that is delayed 
+will still be a fresh, open wound when the energy is released, 
+just as a powerful crushing force will still crush downward when 
+released.
+
+Phantom Touch
+
+When you summon a phantasmal extension of your arm and 
+hand, roll +INT. On a 10+ it can interact with physical objects 
+just like a real limb in a radius of about 10 feet.
+
+Mystic Rites
+
+When you draw on leylines, natural magic, or the correct components 
+to construct a specific arcane effect, tell the GM what 
+you’re trying to accomplish. The GM will give you 1-4 of the 
+following stipulations as your magic takes hold:
+
+ It will take a long time to complete
+
+ First, you must 
+
+ You will require the assistance of someone
+
+ It will take a hefty sacrifice
+
+ The best you can do is a lesser version that is unreliable or 
+limited somehow
+
+ There is a dangerous risk that comes with the spell
+
+ It attracts the attention of something dangerous
+
+Jedi Mind Trick
+
+When you implant a suggestion on someone, roll +CHA. On a 
+10+ they repeat the suggestion and believe it for one minute and 
+they will be confused as to where the idea came from once the 
+spell ends. On a 7-9 they will remember your face and what you 
+did after the spell fades.
+
+Alignment
+
+Choose your leaning 
+
+Chaotic
+
+Intimidate or scare your way out of a direct confrontation.
+
+Evil
+
+Terrify someone into doing something against their will.
+
+Gear
+
+Begin with this equipment
+
+Your load is 6+ STR. 
+
+You start with Dungeon Rations (5 uses, 1 weight) and a pouch 
+of Poultices and Herbs (2 uses, 1 weight)
+
+Choose your weapon:
+
+ Ragged Broom (two-handed, 1 weight)
+ Homemade Staff (two-handed, 1 weight)
+ Gnarled tree branch (two-handed, 1 weight)
+
+And a collection of Ritual Components (0 weight, x7 uses)
+
+ Any time you need common items for spellweaving you 
+can expend one use to pull it from your collection with the 
+GM’s agreement (they may request that you obtain something 
+more unusual). You can replenish your uses by collecting, 
+bartering, or buying magically interesting materials with the 
+GM's approval.
+
+Bonds:
+
+Explore with others before starting or write your own
+
+has a curse on them but not from me.
+
+I know what haunts       ’s nightmares.
+
+has a sickness coming to them that I may be 
+able to prevent.
+
+Advanced Moves
+
+When you take a level between 2-5, choose one of the following
+
+Empath
+
+Choose an item of importance you own. When someone else 
+holds it you can gain the general impressions of their thoughts.
+
+Sleepwalker
+
+When you obtain and burn a lock of hair from your victim, you 
+may briefly take control of them when they next sleep. This 
+includes clumsy or heavy walking, slurred speech, and general 
+impressions of emotions. Anything that would normally wake a 
+person will jar your victim out of the trance and the spell ends.
+
+Medium
+
+When you sit in meditation under the open night sky and call 
+out to the ethereal realm to speak with a spirit, roll +CHA. On 
+a 10+ you find the spirit you were looking for and may ask it 
+three questions. On a 7-9 you locate the spirit but can only get 
+vague information from them.
+
+No Mortal Barrier
+
+When you attempt to unlock a nonmagical lock with your 
+powers, roll+INT. On a 7-9 you manage to undo it but it draws 
+unwanted attention.
+
+Willingly Sacrificed
+
+A willing ally may choose to give you 1D4 healing at the cost of 
+1D4 damage to themselves.
+
+Face Stealer
+
+When you take on the face of another, roll +CHA. On a 10+ 
+you copy their face perfectly, though your body and voice 
+remain your own.
+
+Finder
+
+When you speak the full and true name of a person, place, or 
+thing to the wind at exactly noon, roll +INT. On a 10+ you will 
+have a dream of the thing’s exact location that night. On a 7-9 
+you gain a vague or cryptic impression.
+
+Swarm
+
+At your command, a mass of small vermin materialize at your 
+feet. Once summoned, the animals behave as their devouring 
+instinct demands and will frenzy on any food source within 
+sight. Healthy creatures larger than a dog that get caught in the 
+swarm take 1D4 damage. Creatures smaller risk being eaten 
+alive.
+
+Nightshade
+
+Cause unnatural darkness to fill a confined space for up to five 
+minutes.
+
+Aura Sight
+
+All living things give off a faint aura. With some concentration, 
+you can see their forms in any darkness, natural or otherwise.
+
+Dominate
+
+When you wish to control a creature of animal intelligence or 
+lower and it is within your direct line of sight, roll +INT. On a 
+10+ hold 3, on a 7-9 hold 1. You may spend hold, one for one, 
+to do the following. When you take damage as your animal host 
+or to your own body while dominating, add an extra 1D4 
+damage.
+
+ Move to a new place
+ Make a loud noise
+ Retrieve a small object (smaller than the creature itself)
+ Attack a target
+ Behave unnaturally to draw attention.
+
+Advanced Moves 
+
+When you take a level between 6-10, choose one of the following 
+
+Death Wail 
+
+When you throw your head back and shriek at the top of your 
+lungs, roll +CHA. On a 10+ angry spirits join to form a hellish 
+cacophony that causes enemies to flee in terror. On a 7-9, the 
+effect is decidedly weaker than intended in some way.
+
+Overwhelm Mind
+
+Requires: Dominate
+
+You may now control human targets and add the following conditions 
+to your available pool:
+
+ Speak a handful of simple phrases
+ Target does not realize they were influenced after the spell has worn off.
+
+When you take on the full appearance of another, roll +CHA. 
+On a 10+ you look and sound exactly like them, though your 
+movements and mannerisms are still your own.
+VoidtouchWhen you are in a dark place and summon the very shadows to 
+attack, roll +CHA. On a 10+, shadowy figures leap from the 
+darkness and deal 1D10 damage before melting away again.
