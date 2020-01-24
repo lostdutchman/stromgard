@@ -3,10 +3,11 @@ The text of The Wyrd of Stromgard is released under the Creative Commons Attribu
 
 Web Addresses:
 
-The Kickstarter - https://www.kickstarter.com/projects/lostdutchman/the-wyrd-of-stromgard/
-Official Website - http://lostdutchmansoftware.com/Home/WyrdOfStromgard
-Buy it on itch.io - https://lostdutchman.itch.io/the-wyrd-of-stromgard
-Buy it on Drive Thru RPG - https://www.drivethrurpg.com/product/280540/The-Wyrd-of-Stromgard?term=the+wyrd+of
-Rate it on RPG GEEK - https://rpggeek.com/rpgitem/267624/wyrd-stromgard
+* The Kickstarter - https://www.kickstarter.com/projects/lostdutchman/the-wyrd-of-stromgard/
+* Official Website - http://lostdutchmansoftware.com/Home/WyrdOfStromgard
+* Buy it on itch.io - https://lostdutchman.itch.io/the-wyrd-of-stromgard
+* Buy it on DriveThruRPG - https://www.drivethrurpg.com/product/280540/The-Wyrd-of-Stromgard?term=the+wyrd+of
+* Rate it on RPGGEEK - https://rpggeek.com/rpgitem/267624/wyrd-stromgard
 
-If you play the game we would absolutely love to hear all about your adventures. If you are making new content based on Stromgard hit us up, we would love to let Stromgards existing fans know about your project!
+
+If you play the game we would absolutely love to hear all about your adventures. If you are making new content based on Stromgard, hit us up we would love to let Stromgards existing fans know about your project!
